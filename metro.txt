@@ -1,0 +1,58 @@
+2nd line
+1	Al-Munib 
+2	Saqia Mekki 			
+3	Om Elmasryeen
+4	Giza 			
+5	Faisal 			
+6	Cairo University 			
+7	Elbhoth
+8	Dokki 			
+9	Opera 			
+10	Anwar Sadat 
+11	Muhammad Naguib 				
+12	Attaba
+13	Elshohda 	
+14	msraa 				
+15	Rawd Al-Faraj 			
+16	Santa Teresa 			
+17	Al-Khalafawi 			
+18	Elmzlat			
+19	College of Agriculture 			
+20	Shubra El Kheima 
+
+
+3rd line
+1	Adly Mansour	
+2	Al-Haikstab			
+3	Omar bin al-khattab	
+4	Quba			
+5	Hisham Barakat	
+6	Nozha	
+7	Sun Club	
+8	Alf Maskn
+9	Heliopolis
+10	Aaron
+11	Al-Ahram 
+12	Girls' College
+13	Stadium
+14	Fair grounds 	
+15	Abbasiya 	
+16	Abdo Pasha 		
+17	Elgysh 	
+18	Bab Elshaarya
+19	Attaba	
+20	Gamal Abdel Nasser 
+21	Maspero
+22	Safaa Hegazy 	
+23	Kit Kat 	
+24	Sudan	
+25	Imbaba	
+26	Bohy
+27	Elkomya
+28	Ring road
+29	Rod Al-Farag axis
+30  Eltofykya
+31 	Nile Vally
+32  League Of Arab States
+33  Bolak Eldkror
+34  Cairo University
